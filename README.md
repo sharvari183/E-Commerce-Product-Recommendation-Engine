@@ -161,4 +161,4 @@ Recommended Products:
 
 ## Author
 
-Student Project – E-Commerce Product Recommendation Engine
+Sharvari Patangrai – E-Commerce Product Recommendation Engine
